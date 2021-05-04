@@ -264,3 +264,41 @@ form input[type="button"]:hover
 {
     background-color: #8EC4E7;
 }
+.foto
+{
+    display: flex;
+}
+#portifolio
+{
+    
+    width: 1100px;
+    margin: auto;
+    margin-top: 150px;
+   
+}
+#portifolio h3
+{
+    text-align: center;
+    font-size: 30pt;
+    margin-bottom: 20px;
+    color: #457b9d;
+}
+#texto
+{
+    width: 800px;
+    margin: auto;
+}
+#portifolio p
+{
+
+    text-align: center;
+    margin-bottom: 50px;
+}
+.foto div
+{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-image: url('imagem/portifolio1.jpg');
+    background-size: cover;
+}
